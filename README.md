@@ -1,0 +1,2 @@
+# BetterDiscord-Themes
+Theme repository
